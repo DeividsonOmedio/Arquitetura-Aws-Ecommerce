@@ -6,6 +6,4 @@
 
 ## Arquitetura Montada
 ![Diagrama da solução](Arquitetura.jpg)
-# Arquitetura-Aws-Ecommerce
-# Arquitetura-Aws-Ecommerce
-# Arquitetura-Aws-Ecommerce
+
